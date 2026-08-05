@@ -113,7 +113,7 @@ http://localhost:5173
 
 * 🎓 B.Tech CSE (AI & ML)
 * 💻 Passionate about Web Development & AI Projects
-* 🔗 GitHub: [mdkasim07](https://github.com/mdkasim07)
+
 
 ---
 
