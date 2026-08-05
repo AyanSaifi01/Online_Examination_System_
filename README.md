@@ -109,7 +109,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Md Kasim**
+**Mohammad Ayan Saifi**
 
 * 🎓 B.Tech CSE (AI & ML)
 * 💻 Passionate about Web Development & AI Projects
@@ -139,6 +139,6 @@ This project is licensed under the **MIT License**.
 
 ### 🚀 *"Empowering digital education through smart online examination solutions."*
 
-Made with ❤️ by **Md Kasim**
+Made with ❤️ by **Mohammad Ayan Saifi**
 
 </div>
