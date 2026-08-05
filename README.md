@@ -57,7 +57,7 @@ Online_Examination_System/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mdkasim07/Online_Examination_System.git
+git clone https://https://github.com/AyanSaifi01/Online_Examination_System_
 ```
 
 ### 2️⃣ Navigate to the project folder
@@ -90,7 +90,7 @@ http://localhost:5173
 
 > Add your project screenshots here
 
-```md
+```
 ![Home Page](./screenshots/home.png)
 ![Exam Dashboard](./screenshots/dashboard.png)
 ```
